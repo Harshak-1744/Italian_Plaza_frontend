@@ -4,7 +4,7 @@
 
 ## Demo
 
-You can see a live demo of the Italian Plaza website [https://italian-plaza-frontend.vercel.app/](#).
+You can see a live demo of the Italian Plaza website [https://italian-plaza-frontend.vercel.app/](https://italian-plaza-frontend.vercel.app/).
 
 ## Features
 
